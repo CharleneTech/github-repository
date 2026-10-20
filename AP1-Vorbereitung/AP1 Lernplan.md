@@ -350,3 +350,4 @@ Dieser Bereich wird im Katalog 2025 explizit genannt.
 -   [ ] Unterschiede der UML-Diagramme klar?
     
 -   [ ] Barrierefreiheit (Kontrast, Alt-Texte) bedacht?
+
